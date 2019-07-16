@@ -1,7 +1,7 @@
 miniScreenRecording
 ===
 
->>> FIREFOX ONLY <<<
+> FIREFOX ONLY
 
 http://xem.github.io/miniCamRecording
 
