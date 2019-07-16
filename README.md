@@ -3,7 +3,7 @@ miniScreenRecording
 
 > FIREFOX ONLY
 
-http://xem.github.io/miniCamRecording
+http://xem.github.io/miniScreenRecording
 
 0) Allow screen recording access, choose the window or screen to record
 1) click rec
